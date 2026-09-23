@@ -15,3 +15,4 @@ while True:
         print("angka terlalu kecil")   
     else:
         print("angka terlalu besar")   
+#code written by lyvo
